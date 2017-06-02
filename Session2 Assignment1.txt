@@ -1,0 +1,5 @@
+Question-Explain the Java Architecture.
+Answer- Fist of all Java is a both compiled as well as interpreted language.
+We first write the code known as source code.This source code is then compiled into bytecode during the time of compilation.
+Now as we call Java as write once and run anywhere so now this byte code is interpreted by JVM or Java Virtual Machine.
+JVM converts this bytecode into machine understandable code.This is all about Java Architecture.
